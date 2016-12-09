@@ -1,0 +1,23 @@
+[
+    {
+        "title":"首页",
+        "icon_normal":"H.png",
+        "icon_selected":"Hon.png"
+    },{
+        "title":"专题",
+        "icon_normal":"U.png",
+        "icon_selected":"Uon.png"
+    },{
+        "title":"",
+        "icon_normal":"logo-bottom.png",
+        "icon_selected":"Hon.png"
+    },{
+        "title":"通知",
+        "icon_normal":"S.png",
+        "icon_selected":"Son.png"
+    },{
+        "title":"个人",
+        "icon_normal":"T.png",
+        "icon_selected":"Ton.png"
+    }
+]
