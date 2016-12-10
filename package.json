@@ -39,6 +39,7 @@
   "dependencies": {
     "normalize.css": "^5.0.0",
     "react": "^15.0.0",
+    "react-copy-to-clipboard": "^4.2.3",
     "react-dom": "^15.0.0"
   }
 }

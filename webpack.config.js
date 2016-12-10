@@ -76,6 +76,12 @@ module.exports = {
         ]
     },
     resolve: {
+        alias:{
+            component:path.join(__dirname,'src/components'),
+            font:path.join(__dirname,'src/fonts'),
+            image:path.join(__dirname,'src/images'),
+            style:path.join(__dirname,'src/styles')
+        },
         extensions: ['', '.js', '.json', '.scss']
     },
     plugins:[

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../..//fonts/font1/iconfont.eot?t=1480313600174");
+  /* IE9*/
+  src: url("../..//fonts/font1/iconfont.eot?t=1480313600174#iefix") format("embedded-opentype"), url("../..//fonts/font1/iconfont.woff?t=1480313600174") format("woff"), url("../..//fonts/font1/iconfont.ttf?t=1480313600174") format("truetype"), url("../..//fonts/font1/iconfont.svg?t=1480313600174#iconfont") format("svg");
+  /* iOS 4.1- */ }
+header {
+  background-color: #e3ddd6;
+  width: 100%;
+  height: 0.95rem;
+  border-bottom: 0.01rem solid #cfcfcf;
+  box-sizing: border-box;
+  padding: 0.2rem 0.14rem; }
+
+/*# sourceMappingURL=index.css.map */

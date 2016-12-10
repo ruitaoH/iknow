@@ -1,0 +1,105 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../..//fonts/font1/iconfont.eot?t=1480313600174");
+  /* IE9*/
+  src: url("../..//fonts/font1/iconfont.eot?t=1480313600174#iefix") format("embedded-opentype"), url("../..//fonts/font1/iconfont.woff?t=1480313600174") format("woff"), url("../..//fonts/font1/iconfont.ttf?t=1480313600174") format("truetype"), url("../..//fonts/font1/iconfont.svg?t=1480313600174#iconfont") format("svg");
+  /* iOS 4.1- */ }
+.login {
+  width: 100%;
+  height: 100%;
+  background-color: #f6f1ea; }
+  .login > img {
+    width: 3.2rem;
+    height: 2.42rem;
+    display: block;
+    margin: 0 auto; }
+  .login_main {
+    width: 6.66rem;
+    height: 7.12rem;
+    margin: 1.34rem auto 0;
+    position: relative; }
+    .login_main .input {
+      width: 6.6rem;
+      height: 0.52rem;
+      box-sizing: border-box;
+      margin: 0 auto 0.52rem;
+      border-bottom: #c7beb2 0.02rem solid;
+      position: relative; }
+      .login_main .input input[type='text'] {
+        width: 100%;
+        height: 0.5rem;
+        box-sizing: border-box;
+        display: block;
+        padding-left: 1.04rem;
+        background-color: transparent;
+        outline: none;
+        vertical-align: bottom;
+        font-size: 0.36rem;
+        color: #89817A; }
+        .login_main .input input[type='text'] ::-webkit-input-placeholder {
+          font-size: 0.36rem;
+          color: #DED7CE; }
+        .login_main .input input[type='text'] :-moz-placeholder {
+          font-size: 0.36rem;
+          color: #DED7CE; }
+        .login_main .input input[type='text'] ::-moz-placeholder {
+          font-size: 0.36rem;
+          color: #DED7CE; }
+        .login_main .input input[type='text'] :-ms-input-placeholder {
+          font-size: 0.36rem;
+          color: #DED7CE; }
+    .login_main .user:after {
+      font-family: "iconfont";
+      content: "\e600";
+      color: #c7beb2;
+      font-size: 0.32rem;
+      position: absolute;
+      width: 0.32rem;
+      height: 0.32rem;
+      left: 0.24rem;
+      bottom: 0.10rem;
+      line-height: 0.32rem; }
+    .login_main .password:after {
+      font-family: "iconfont";
+      content: "\e6fb";
+      color: #c7beb2;
+      font-size: 0.32rem;
+      position: absolute;
+      width: 0.32rem;
+      height: 0.32rem;
+      left: 0.24rem;
+      bottom: 0.10rem;
+      line-height: 0.32rem; }
+    .login_main input[type='button'] {
+      width: 6.5rem;
+      height: 1.06rem;
+      box-sizing: border-box;
+      border: 0.04rem solid #c7beb2;
+      border-radius: 0.14rem;
+      background-color: transparent;
+      color: #89817A;
+      font-size: 0.4rem;
+      outline: none;
+      display: block;
+      margin: 0 auto; }
+    .login_main .info {
+      width: 100%;
+      height: 0.28rem;
+      margin-top: 0.24rem;
+      box-sizing: border-box;
+      padding: 0 0.05rem; }
+      .login_main .info a {
+        font-size: 0.28rem;
+        color: #C7BEB2; }
+      .login_main .info .new_user {
+        float: left; }
+      .login_main .info .forget_password {
+        float: right; }
+    .login_main .look_with_reg {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      color: #C7BEB2;
+      font-size: 0.28rem; }
+
+/*# sourceMappingURL=login.css.map */

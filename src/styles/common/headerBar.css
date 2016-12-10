@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../..//fonts/font1/iconfont.eot?t=1480313600174");
+  /* IE9*/
+  src: url("../..//fonts/font1/iconfont.eot?t=1480313600174#iefix") format("embedded-opentype"), url("../..//fonts/font1/iconfont.woff?t=1480313600174") format("woff"), url("../..//fonts/font1/iconfont.ttf?t=1480313600174") format("truetype"), url("../..//fonts/font1/iconfont.svg?t=1480313600174#iconfont") format("svg");
+  /* iOS 4.1- */ }
+.headerBar {
+  width: 100%;
+  height: 0.82rem;
+  box-sizing: border-box;
+  border-bottom: solid 0.02rem #d5d5d5;
+  background-color: #e3ddd6;
+  position: fixed;
+  top: 0;
+  z-index: 111; }
+  .headerBar img {
+    float: left;
+    width: 0.24rem;
+    height: 0.42rem;
+    margin-left: 0.34rem;
+    margin-top: 0.18rem; }
+  .headerBar p {
+    height: 100%;
+    line-height: 0.8rem;
+    text-align: center;
+    color: #817b76;
+    font-size: 0.36rem; }
+  .headerBar a {
+    height: 100%;
+    line-height: 0.8rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 0.8rem;
+    text-align: center;
+    font-size: 0.34rem;
+    color: #817b76;
+    padding: 0 0.24rem; }
+    .headerBar a i {
+      font-family: 'iconfont';
+      float: right;
+      font-size: 0.44rem;
+      color: #89847e;
+      text-align: center;
+      line-height: 0.8rem; }
+
+/*# sourceMappingURL=headerBar.css.map */
